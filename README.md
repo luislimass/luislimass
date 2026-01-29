@@ -70,5 +70,5 @@ Me chamo Luis Eduardo Lima dos Santos, tenho 20 anos e sou natural do Fortaleza 
 
 ### 📊 Estatísticas
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luislimass&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luislimass&show_icons=true&theme=radical)
 
