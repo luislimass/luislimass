@@ -52,7 +52,7 @@ Me chamo Luis Eduardo Lima dos Santos, tenho 20 anos e sou natural do Fortaleza 
     title="Mysql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="mysql.png" 
+    src="Logos/mysql.png" 
 />  
 
 <img 
@@ -61,7 +61,7 @@ Me chamo Luis Eduardo Lima dos Santos, tenho 20 anos e sou natural do Fortaleza 
     title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="docker.png" 
+    src="Logos/docker.png" 
 />  
           
 
